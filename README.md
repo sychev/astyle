@@ -1,0 +1,2 @@
+# astyle
+Artistic Style Configuration
